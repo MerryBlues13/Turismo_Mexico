@@ -1,0 +1,271 @@
+Continente,Estado,Entradas
+Africa,Aguascalientes,266
+Africa,Baja California,229
+Africa,Baja California Sur,12490
+Africa,Campeche,269
+Africa,CDMX,97550
+Africa,Chiapas,35
+Africa,Chihuahua,324
+Africa,Coahuila,180
+Africa,Colima,78
+Africa,Durango,36
+Africa,Estado de Mexico,266
+Africa,Guanajuato,1126
+Africa,Guerrero,394
+Africa,Jalisco,11905
+Africa,Michoacan,97
+Africa,Morelos,2
+Africa,Nayarit,0
+Africa,Nuevo Leon,4218
+Africa,Oaxaca,285
+Africa,Puebla,209
+Africa,Queretaro,813
+Africa,Quintana Roo,114894
+Africa,San Luis Potosi,528
+Africa,Sinaloa,437
+Africa,Sonora,259
+Africa,Tabasco,220
+Africa,Tamaulipas,227
+Africa,Veracruz,215
+Africa,Yucatan,483
+Africa,Zacatecas,25
+America Central,Aguascalientes,1366
+America Central,Baja California,8482
+America Central,Baja California Sur,13554
+America Central,Campeche,235
+America Central,CDMX,2659752
+America Central,Chiapas,12678
+America Central,Chihuahua,1128
+America Central,Coahuila,883
+America Central,Colima,270
+America Central,Durango,253
+America Central,Estado de Mexico,1878
+America Central,Guanajuato,4795
+America Central,Guerrero,895
+America Central,Jalisco,129539
+America Central,Michoacan,1734
+America Central,Morelos,118
+America Central,Nayarit,0
+America Central,Nuevo Leon,40034
+America Central,Oaxaca,1153
+America Central,Puebla,1900
+America Central,Queretaro,3458
+America Central,Quintana Roo,763628
+America Central,San Luis Potosi,1287
+America Central,Sinaloa,1175
+America Central,Sonora,967
+America Central,Tabasco,772
+America Central,Tamaulipas,966
+America Central,Veracruz,1534
+America Central,Yucatan,4791
+America Central,Zacatecas,467
+America del Norte,Aguascalientes,408249
+America del Norte,Baja California,82919
+America del Norte,Baja California Sur,15616075
+America del Norte,Campeche,43490
+America del Norte,CDMX,15580300
+America del Norte,Chiapas,10136
+America del Norte,Chihuahua,245888
+America del Norte,Coahuila,154529
+America del Norte,Colima,312296
+America del Norte,Durango,132731
+America del Norte,Estado de Mexico,106832
+America del Norte,Guanajuato,1517447
+America del Norte,Guerrero,1003524
+America del Norte,Jalisco,20960472
+America del Norte,Michoacan,831623
+America del Norte,Morelos,1209
+America del Norte,Nayarit,0
+America del Norte,Nuevo Leon,1790430
+America del Norte,Oaxaca,682439
+America del Norte,Puebla,113169
+America del Norte,Queretaro,694652
+America del Norte,Quintana Roo,49393836
+America del Norte,San Luis Potosi,337777
+America del Norte,Sinaloa,1173862
+America del Norte,Sonora,216984
+America del Norte,Tabasco,46249
+America del Norte,Tamaulipas,84598
+America del Norte,Veracruz,112082
+America del Norte,Yucatan,337306
+America del Norte,Zacatecas,317729
+America del Sur,Aguascalientes,3411
+America del Sur,Baja California,8939
+America del Sur,Baja California Sur,55552
+America del Sur,Campeche,2949
+America del Sur,CDMX,9448804
+America del Sur,Chiapas,4111
+America del Sur,Chihuahua,4525
+America del Sur,Coahuila,2057
+America del Sur,Colima,399
+America del Sur,Durango,278
+America del Sur,Estado de Mexico,13658
+America del Sur,Guanajuato,13859
+America del Sur,Guerrero,4074
+America del Sur,Jalisco,194992
+America del Sur,Michoacan,1523
+America del Sur,Morelos,34
+America del Sur,Nayarit,0
+America del Sur,Nuevo Leon,140472
+America del Sur,Oaxaca,1378
+America del Sur,Puebla,3995
+America del Sur,Queretaro,13851
+America del Sur,Quintana Roo,7426834
+America del Sur,San Luis Potosi,6503
+America del Sur,Sinaloa,2047
+America del Sur,Sonora,3438
+America del Sur,Tabasco,11284
+America del Sur,Tamaulipas,2320
+America del Sur,Veracruz,5208
+America del Sur,Yucatan,18234
+America del Sur,Zacatecas,388
+Apatrida,Aguascalientes,1
+Apatrida,Baja California,0
+Apatrida,Baja California Sur,9
+Apatrida,Campeche,0
+Apatrida,CDMX,59
+Apatrida,Chiapas,0
+Apatrida,Chihuahua,1
+Apatrida,Coahuila,0
+Apatrida,Colima,0
+Apatrida,Durango,0
+Apatrida,Estado de Mexico,0
+Apatrida,Guanajuato,1
+Apatrida,Guerrero,0
+Apatrida,Jalisco,5
+Apatrida,Michoacan,1
+Apatrida,Morelos,0
+Apatrida,Nayarit,0
+Apatrida,Nuevo Leon,1
+Apatrida,Oaxaca,0
+Apatrida,Puebla,0
+Apatrida,Queretaro,0
+Apatrida,Quintana Roo,98
+Apatrida,San Luis Potosi,0
+Apatrida,Sinaloa,1
+Apatrida,Sonora,0
+Apatrida,Tabasco,0
+Apatrida,Tamaulipas,0
+Apatrida,Veracruz,0
+Apatrida,Yucatan,0
+Apatrida,Zacatecas,0
+Asia,Aguascalientes,56167
+Asia,Baja California,102686
+Asia,Baja California Sur,169745
+Asia,Campeche,2210
+Asia,CDMX,2018228
+Asia,Chiapas,542
+Asia,Chihuahua,7901
+Asia,Coahuila,5901
+Asia,Colima,1715
+Asia,Durango,819
+Asia,Estado de Mexico,2477
+Asia,Guanajuato,124097
+Asia,Guerrero,3983
+Asia,Jalisco,204035
+Asia,Michoacan,1354
+Asia,Morelos,3
+Asia,Nayarit,0
+Asia,Nuevo Leon,178354
+Asia,Oaxaca,2710
+Asia,Puebla,2761
+Asia,Queretaro,51674
+Asia,Quintana Roo,1780538
+Asia,San Luis Potosi,32256
+Asia,Sinaloa,5047
+Asia,Sonora,6586
+Asia,Tabasco,1685
+Asia,Tamaulipas,5786
+Asia,Veracruz,3209
+Asia,Yucatan,6554
+Asia,Zacatecas,1855
+Europa,Aguascalientes,11963
+Europa,Baja California,3984
+Europa,Baja California Sur,253752
+Europa,Campeche,3930
+Europa,CDMX,6695845
+Europa,Chiapas,2475
+Europa,Chihuahua,14820
+Europa,Coahuila,8741
+Europa,Colima,4236
+Europa,Durango,610
+Europa,Estado de Mexico,11771
+Europa,Guanajuato,51870
+Europa,Guerrero,18125
+Europa,Jalisco,563300
+Europa,Michoacan,2568
+Europa,Morelos,98
+Europa,Nayarit,0
+Europa,Nuevo Leon,182781
+Europa,Oaxaca,10196
+Europa,Puebla,11666
+Europa,Queretaro,49550
+Europa,Quintana Roo,11794370
+Europa,San Luis Potosi,30669
+Europa,Sinaloa,9343
+Europa,Sonora,6639
+Europa,Tabasco,5360
+Europa,Tamaulipas,8714
+Europa,Veracruz,9043
+Europa,Yucatan,28475
+Europa,Zacatecas,658
+Islas del Caribe,Aguascalientes,683
+Islas del Caribe,Baja California,132
+Islas del Caribe,Baja California Sur,9119
+Islas del Caribe,Campeche,338
+Islas del Caribe,CDMX,580635
+Islas del Caribe,Chiapas,141
+Islas del Caribe,Chihuahua,4833
+Islas del Caribe,Coahuila,396
+Islas del Caribe,Colima,104
+Islas del Caribe,Durango,77
+Islas del Caribe,Estado de Mexico,3359
+Islas del Caribe,Guanajuato,1286
+Islas del Caribe,Guerrero,186
+Islas del Caribe,Jalisco,16869
+Islas del Caribe,Michoacan,254
+Islas del Caribe,Morelos,2
+Islas del Caribe,Nayarit,90
+Islas del Caribe,Nuevo Leon,22616
+Islas del Caribe,Oaxaca,289
+Islas del Caribe,Puebla,420
+Islas del Caribe,Queretaro,1256
+Islas del Caribe,Quintana Roo,713552
+Islas del Caribe,San Luis Potosi,423
+Islas del Caribe,Sinaloa,648
+Islas del Caribe,Sonora,253
+Islas del Caribe,Tabasco,295
+Islas del Caribe,Tamaulipas,451
+Islas del Caribe,Veracruz,1842
+Islas del Caribe,Yucatan,41270
+Islas del Caribe,Zacatecas,58
+Oceania,Aguascalientes,707
+Oceania,Baja California,337
+Oceania,Baja California Sur,79988
+Oceania,Campeche,273
+Oceania,CDMX,263310
+Oceania,Chiapas,129
+Oceania,Chihuahua,870
+Oceania,Coahuila,496
+Oceania,Colima,825
+Oceania,Durango,68
+Oceania,Estado de Mexico,383
+Oceania,Guanajuato,3875
+Oceania,Guerrero,2776
+Oceania,Jalisco,57144
+Oceania,Michoacan,365
+Oceania,Morelos,3
+Oceania,Nayarit,0
+Oceania,Nuevo Leon,7583
+Oceania,Oaxaca,1813
+Oceania,Puebla,390
+Oceania,Queretaro,1864
+Oceania,Quintana Roo,350301
+Oceania,San Luis Potosi,828
+Oceania,Sinaloa,2200
+Oceania,Sonora,1494
+Oceania,Tabasco,526
+Oceania,Tamaulipas,461
+Oceania,Veracruz,398
+Oceania,Yucatan,2464
+Oceania,Zacatecas,131
